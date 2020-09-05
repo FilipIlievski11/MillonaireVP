@@ -1,137 +1,153 @@
 <Questions>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>1</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>2</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>3</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>4</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>5</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>6</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>7</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>8</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>9</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>10</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>11</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>12</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>13</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>14</Number>
-  </Question>
-  <Question>
-    <QuestionText> Kako se vikas?</QuestionText>
-    <AnswerA>Filip</AnswerA>
-    <AnswerB>Bojan</AnswerB>
-    <AnswerC>Martin</AnswerC>
-    <AnswerD>Mete</AnswerD>
-    <RightAnswer>A</RightAnswer>
-    <Number>15</Number>
-  </Question>
+<Question>
+		<QuestionText>Who was the first explorer to land in the `New World,' America? </QuestionText>
+		<AnswerA>Christopher Columbus </AnswerA>
+		<AnswerB>Christopher Nolan</AnswerB>
+		<AnswerC>Mark Zuckenberg</AnswerC>
+		<AnswerD>Madonna</AnswerD>
+		<RightAnswer>A</RightAnswer>
+		<Number>1</Number>
+</Question>
+<Question>
+		<QuestionText> Who was the first British monarch to choose Buckingham Palace as their home?</QuestionText>
+		<AnswerA>Queen Elizabeth I</AnswerA>
+		<AnswerB>Queen Elizabeth II</AnswerB>
+		<AnswerC>Queen Victoria</AnswerC>
+		<AnswerD>Queen Angie</AnswerD>
+		<RightAnswer>C</RightAnswer>
+		<Number>2</Number>
+</Question>
+<Question>
+		<QuestionText>Who invented the Steam Engine?</QuestionText>
+		<AnswerA>Jackie Johnson</AnswerA>
+		<AnswerB>James Watt</AnswerB>
+		<AnswerC>Lebron James</AnswerC>
+		<AnswerD>Gini Wijnaldum</AnswerD>
+		<RightAnswer>B</RightAnswer>
+		<Number>3</Number>
+</Question>
+<Question>
+		<QuestionText>Who won the 2014 Wimbledon Men's tennis final?</QuestionText>
+		<AnswerA>Mark Verstapen</AnswerA>
+		<AnswerB>Novak Djokovic </AnswerB>
+		<AnswerC>Rafael Nadal</AnswerC>
+		<AnswerD>Fernando Torres</AnswerD>
+		<RightAnswer>B</RightAnswer>
+		<Number>4</Number>
+</Question>
+<Question>
+		<QuestionText>Who plays Katniss Everdeen in the Hunger Games 2012 film? </QuestionText>
+		<AnswerA>Kendal Jenner</AnswerA>
+		<AnswerB>Ronda Alaska</AnswerB>
+		<AnswerC>Jordana Cameron</AnswerC>
+		<AnswerD>Jennifer Lawrence</AnswerD>
+		<RightAnswer>D</RightAnswer>
+		<Number>5</Number>
+</Question>
+<Question>
+		<QuestionText>Who wrote the ‘Twilight Saga’ books?</QuestionText>
+		<AnswerA>Stephanie Mayer</AnswerA>
+		<AnswerB>Stephan Angel</AnswerB>
+		<AnswerC>Steph Carry</AnswerC>
+		<AnswerD>Jordan Siggurdson</AnswerD>
+		<RightAnswer>A</RightAnswer>
+		<Number>6</Number>
+</Question>
+<Question>
+		<QuestionText>Who wrote the ‘Twilight Saga’ books?</QuestionText>
+		<AnswerA>Stephanie Mayer</AnswerA>
+		<AnswerB>Stephan Angel</AnswerB>
+		<AnswerC>Steph Carry</AnswerC>
+		<AnswerD>Jordan Siggurdson</AnswerD>
+		<RightAnswer>A</RightAnswer>
+		<Number>6</Number>
+</Question>
+<Question>
+		<QuestionText>Who discovered gravity?</QuestionText>
+		<AnswerA>Nikola Tesla</AnswerA>
+		<AnswerB>Ivica Kostelic</AnswerB>
+		<AnswerC>Isac Newton</AnswerC>
+		<AnswerD>Bruno Alais</AnswerD>
+		<RightAnswer>C</RightAnswer>
+		<Number>7</Number>
+</Question>
+
+<Question>
+		<QuestionText>Who is the celebrity chef who led the school dinners campaign to ban junk food in schools? </QuestionText>
+		<AnswerA>Jackson Brothers</AnswerA>
+		<AnswerB>Jamie Oliver</AnswerB>
+		<AnswerC>Brendan Rodgers</AnswerC>
+		<AnswerD>Gilfi Rais</AnswerD>
+		<RightAnswer>B</RightAnswer>
+		<Number>8</Number>
+</Question>
+	
+<Question>
+		<QuestionText>Who is the President of France?</QuestionText>
+		<AnswerA>Gandalf the grey</AnswerA>
+		<AnswerB>Francouis HOllande</AnswerB>
+		<AnswerC>Macron</AnswerC>
+		<AnswerD>Ivanov Gjorgji</AnswerD>
+		<RightAnswer>C</RightAnswer>
+		<Number>9</Number>
+</Question>
+
+<Question>
+		<QuestionText>Who is the famous figure who stands on top of the column in Trafalgar Square in London?  </QuestionText>
+		<AnswerA>Nelson</AnswerA>
+		<AnswerB>Gardicon</AnswerB>
+		<AnswerC>Zaficaru</AnswerC>
+		<AnswerD>Gazanason</AnswerD>
+		<RightAnswer>A</RightAnswer>
+		<Number>10</Number>
+</Question>
+
+<Question>
+		<QuestionText>Who named her kids Aimee, Kelly and Jack?   </QuestionText>
+		<AnswerA>Lady Gaga</AnswerA>
+		<AnswerB>Severina</AnswerB>
+		<AnswerC>Angelina Jolie</AnswerC>
+		<AnswerD>Sharon Osbourne </AnswerD>
+		<RightAnswer>D</RightAnswer>
+		<Number>11</Number>
+</Question>	
+
+<Question>
+		<QuestionText>Who has won football's World Cup the most often? </QuestionText>
+		<AnswerA>South American contries</AnswerA>
+		<AnswerB>European contries</AnswerB>
+		<AnswerC>Asian contries</AnswerC>
+		<AnswerD>African contries</AnswerD>
+		<RightAnswer>B</RightAnswer>
+		<Number>12</Number>
+</Question>	
+		
+<Question>
+		<QuestionText>Who won the X Factor final in 2013?    </QuestionText>
+		<AnswerA>Sam Baily</AnswerA>
+		<AnswerB>Bono </AnswerB>
+		<AnswerC>John Mayer</AnswerC>
+		<AnswerD>Dua Lipa</AnswerD>
+		<RightAnswer>A</RightAnswer>
+		<Number>13</Number>
+</Question>
+<Question>
+		<QuestionText>Who is the famous human rights activist who said: "Sometimes it falls on a generation to be great. You can be that generation." ? </QuestionText>
+		<AnswerA>Nelson Mandela </AnswerA>
+		<AnswerB>Jack Shirak</AnswerB>
+		<AnswerC>Jane Jankov</AnswerC>
+		<AnswerD>King Luis II</AnswerD>
+		<RightAnswer>A</RightAnswer>
+		<Number>14</Number>
+</Question>	
+<Question>
+		<QuestionText>Who were the two famous celebrities that teamed up to win £50,000 for CAFOD on `Who Wants to be a Millionaire' in 2014?   </QuestionText>
+		<AnswerA>Daniel Sturridge and Luis Suarez</AnswerA>
+		<AnswerB>Fernando Torres and Steven Gerrard</AnswerB>
+		<AnswerC>Sadio Mane and Mohhamed Salah</AnswerC>
+		<AnswerD>Adrian Chiles and Frank Skinner</AnswerD>
+		<RightAnswer>D</RightAnswer>
+		<Number>15</Number>
+</Question>
+	
 </Questions>

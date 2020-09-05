@@ -114,6 +114,8 @@
     <None Include="Resources\Images\811+RMe2MDL.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\highscores.xml" />
+    <Content Include="bin\Debug\questions.xml" />
     <Content Include="bin\Debug\VisualProgrammingProject.exe" />
     <Content Include="bin\Debug\VisualProgrammingProject.pdb" />
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
@@ -150,6 +152,7 @@
     <Content Include="Resources\Sound\lets-play.wav" />
     <Content Include="Resources\Sound\main-theme.wav" />
     <Content Include="Resources\Sound\wrong-answer.wav" />
+    <Content Include="Resources\XMLData\highscores.xml" />
     <Content Include="Resources\XMLData\questions.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

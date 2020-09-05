@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HighScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <Username>Filip Test</Username>
+    <Score>1000000</Score>
+  </Score>
+  <Score>
+    <Username>Guest</Username>
+    <Score>100</Score>
+  </Score>
+  <Score>
+    <Username>Guest</Username>
+    <Score>1000</Score>
+  </Score>
+</HighScore>
