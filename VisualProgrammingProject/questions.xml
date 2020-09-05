@@ -1,0 +1,18 @@
+<Questions>
+	<Question>
+		<QuestionText> Kako se vikas?</QuestionText>
+		<AnswerA>Filip</AnswerA>
+		<AnswerB>Bojan</AnswerB>
+		<AnswerC>Martin</AnswerC>
+		<AnswerD>Mete</AnswerD>
+		<RightAnswer>A</RightAnswer>
+	</Question>
+	<Question>
+		<QuestionText> Kako se vikas?</QuestionText>
+		<AnswerA>Filip</AnswerA>
+		<AnswerB>Bojan</AnswerB>
+		<AnswerC>Martin</AnswerC>
+		<AnswerD>Mete</AnswerD>
+		<RightAnswer>A</RightAnswer>
+	</Question>
+</Questions>
