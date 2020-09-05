@@ -93,6 +93,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="bin\Debug\VisualProgrammingProject.exe.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -106,11 +107,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Images\811+RMe2MDL.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\VisualProgrammingProject.exe" />
+    <Content Include="bin\Debug\VisualProgrammingProject.pdb" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
     <Content Include="readme.txt" />
     <Content Include="Resources\Images\imagesCAG5P2IF.jpg" />
     <Content Include="Resources\Images\jpge50.jpg" />
